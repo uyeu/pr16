@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff; 
+}
+
+header {
+    background-color: #333; 
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+main {
+    text-align: center;
+    margin: 20px;
+}
+
+.main-text {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#colorPalette {
+    margin-top: 20px;
+}
+
+.colorBox {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+}
